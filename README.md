@@ -1,3 +1,3 @@
-<h1 align="center">Как поймать льва?</h1>
+<h1 align="center">О КАФЕДРЕ</h1>
 
 
